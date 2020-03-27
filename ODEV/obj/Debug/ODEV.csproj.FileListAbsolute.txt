@@ -4,3 +4,10 @@ C:\Users\Kinqw\source\repos\ODEV\ODEV\bin\Debug\ODEV.pdb
 C:\Users\Kinqw\source\repos\ODEV\ODEV\obj\Debug\ODEV.csprojAssemblyReference.cache
 C:\Users\Kinqw\source\repos\ODEV\ODEV\obj\Debug\ODEV.exe
 C:\Users\Kinqw\source\repos\ODEV\ODEV\obj\Debug\ODEV.pdb
+C:\Users\Kinqw\Desktop\Git\YazilimYapimiOdev\ODEV\bin\Debug\ODEV.exe.config
+C:\Users\Kinqw\Desktop\Git\YazilimYapimiOdev\ODEV\bin\Debug\ODEV.exe
+C:\Users\Kinqw\Desktop\Git\YazilimYapimiOdev\ODEV\bin\Debug\ODEV.pdb
+C:\Users\Kinqw\Desktop\Git\YazilimYapimiOdev\ODEV\obj\Debug\ODEV.csprojAssemblyReference.cache
+C:\Users\Kinqw\Desktop\Git\YazilimYapimiOdev\ODEV\obj\Debug\ODEV.csproj.CoreCompileInputs.cache
+C:\Users\Kinqw\Desktop\Git\YazilimYapimiOdev\ODEV\obj\Debug\ODEV.exe
+C:\Users\Kinqw\Desktop\Git\YazilimYapimiOdev\ODEV\obj\Debug\ODEV.pdb
